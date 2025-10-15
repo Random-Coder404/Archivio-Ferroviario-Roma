@@ -165,10 +165,10 @@ header{
   background-color: #c8e3c2; 
   border: 2px solid #9fcf94; 
 } 
-/* .card-fl6 { 
+.card-fl6 { 
   background-color: #f5e0b3; 
   border: 2px solid #e2c97f; 
-}  */
+}  
 .card-fl7 { 
   background-color: #ffc9a1; 
   border: 2px solid #f5a574; 
@@ -206,3 +206,4 @@ a{
 a:hover{
   text-decoration: underline;
 }
+
