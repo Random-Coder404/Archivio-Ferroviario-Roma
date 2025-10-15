@@ -48,7 +48,30 @@ header{
   padding: 30px 0;
   border-radius: 15px 15px;
 }
-
+.header-fl1{
+  background-color: skyblue;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px; 
+}
+.header-fl2{
+  background-color: blue;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px; 
+}
+.header-fl3{
+  background-color: brown;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
+.header-fl4{
+  background-color: #b87a3d;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
 
 /* Breadcrumb */
 .bc {
@@ -120,30 +143,61 @@ header{
   border: 2px solid #a366ff; 
 }
 .card-title-long {
-    font-size: 1.10rem; 
+  font-size: 1.10rem; 
+}
+.card-fl1 { 
+  background-color: #b0d4f1; 
+  border: 2px solid #7cb4e0; 
+} 
+.card-fl2 { 
+  background-color: #cce5ff;; 
+  border: 2px solid #e58bbf; 
+} 
+.card-fl3 { 
+  background-color: #cc9966; 
+  border: 2px solid #b57f4b; 
+} 
+.card-fl4 { 
+  background-color: #e6cba8; 
+  border: 2px solid #d7b98c; 
+} 
+.card-fl5 { 
+  background-color: #c8e3c2; 
+  border: 2px solid #9fcf94; 
+} 
+/* .card-fl6 { 
+  background-color: #f5e0b3; 
+  border: 2px solid #e2c97f; 
+}  */
+.card-fl7 { 
+  background-color: #ffc9a1; 
+  border: 2px solid #f5a574; 
+} 
+.card-fl8 { 
+  background-color: 
+  #b5b2f3; border: 2px solid #918be3; 
 }
 
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-}
+
 
 
 /* Footer */
-footer {
-  background-color: #0d6efd;
+.footer-custom {
+  background-color: #444444; 
   color: white;
-  padding: 15px;
 }
 
-footer a {
-  color: #ffc107;
-  text-decoration: none;
+.footer-custom h5 {
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-footer a:hover {
-  text-decoration: underline;
+.footer-custom p {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
 }
+
+
 
 /* Links */
 a{
