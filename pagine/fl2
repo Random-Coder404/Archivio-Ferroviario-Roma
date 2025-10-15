@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../img/MA100.jpeg">
+    <title>Ferrovia FL1</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <div class="container-fluid">
+        <header class="text-center header-fl2">
+            <h1>Ferrovia FL2</h1>
+        </header>
+    </div>
+    <!-- Breadcrumb -->
+    <div class="container-fluid text-center bc mt-3">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb justify-content-center">
+                <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Ferrovia FL2</li>
+            </ol>
+        </nav>
+    </div>
+    <!-- Descrizione linea -->
+    <div class="container-fluid">
+        <p class="mt-4">
+            La linea FL2 del servizio ferroviario regionale del Lazio collega la stazione di Roma
+            Tiburtina con quella di Tivoli utilizzando la ferrovia Roma-Sulmona-Pescara. Lungo la
+            sua tratta urbana serve i quartieri della periferia est romana come Ponte di Nona,
+            La Rustica, Tor Sapienza e Collatino. La frequenza è di 60 minuti, ridotta a 30 negli
+            orari di punta. È gestita da Trenitalia; il principale nodo di interscambio è la
+            stazione di Roma Tiburtina. <br>
+            La linea è servita principalmente da TAF, subentrati alle composizioni E464+Carrozze PR
+            circolanti fino alla fine del 2021 e E464+MD, Nel 2023 vi hanno apparizione delle
+            composizioni di E464+VivAlto ed sempre nel 2023,in occasione della Ryder Cup 2023 hanno
+            fatto la loro apparizione anche i treni ETR521/621 Rock svolgendo dei servizi Regionali
+            tra la stazione Roma Tiburtina e le stazioni di Lunghezza,
+            Guidonia-Montecelio-Sant'Angelo e Tivoli. Dal 10 aprile 2025, gli Etr 621 Rock, sono
+            entrati in servizio sulla tratta Roma Tiburtina Avezzano, andando man mano a sostituire
+            i Taf. Alcuni servizi verso le destinazioni abruzzesi vengono svolti con E464+Carrozze
+            MD Medie Distanze, con l'aggiunta dei treni Jazz e Pop per Pescara.
+        </p>
+    </div>
+</body>
