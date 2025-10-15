@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css">
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../img/MA100.jpeg">
+    <title>Ferrovia FL1</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <div class="container-fluid">
+        <header class="text-center header-fl1">
+            <h1>Ferrovia FL1</h1>
+        </header>
+    </div>
+    <!-- Breadcrumb -->
+    <div class="container-fluid text-center bc mt-3">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb justify-content-center">
+                <li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Ferrovia FL1</li>
+            </ol>
+        </nav>
+    </div>
+    <!-- Descrizione linea -->
+    <div class="container-fluid">
+        <p class="mt-4">
+            La linea FL1 del servizio ferroviario regionale del Lazio collega Orte con Fiumicino
+            Aeroporto utilizzando la ferrovia Firenze-Roma e la ferrovia Roma-Fiumicino. La frequenza
+            nella tratta Fiumicino-Fara Sabina Montelibretti è di 15 minuti, nella tratta
+            Fara Sabina-Poggio Mirteto è di 30 e nella restante Orte-Fiumicino Aeroporto è di 60. È
+            gestita da Trenitalia; i principali interscambi con la metropolitana e le altre linee FL
+            sono Roma Tiburtina, Roma Tuscolana e Roma Ostiense.<br>
+            La linea viene percorsa principalmente dai nuovi Treni Rock ETR521 e ETR621, inoltre
+            anche da TAF su alcuni servizi.
+    </div>
+</body>
