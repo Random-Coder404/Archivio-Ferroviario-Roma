@@ -72,6 +72,31 @@ header{
   padding: 30px 0;
   border-radius: 15px 15px;
 }
+.header-fl5{
+  background-color: yellowgreen;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
+}
+.header-fl6{
+  background-color: rosybrown;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
+.header-fl7{
+  background-color: lightgreen;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
+.header-fl8{
+  background-color: #49B05F;
+  color: white;
+  padding: 30px 0;
+  border-radius: 15px 15px;
+}
 
 /* Breadcrumb */
 .bc {
