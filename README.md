@@ -4,3 +4,5 @@ Una vero e proprio archivio dove poter consultare la storia di tutte le ferrovie
 Questo progetto nasce dalla mia passione sfrenata per tutto ciò che riguarda treni e ferrovie, dalla storia alle condizioni attuali!
 
 L'archivio è disponibile online a [questo link](https://random-coder404.github.io/Archivio-Ferroviario-Roma/)!
+
+Il sito è stato creato usando HTML, CSS e il framework Bootstrap, scritti usando l'editor di codice VSCodium.
